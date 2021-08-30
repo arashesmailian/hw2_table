@@ -41,3 +41,7 @@ td{
     background-color: #2e2c39;
     color: #f8f7fd;
 }
+td span{
+    font-size: small;
+    color: #88878f;
+}
